@@ -2,6 +2,8 @@
 // https://docs.swift.org/swift-book
 
 
-struct Documentation {
-    static let shared: Documentation = Documentation()
+/// This class does something
+public struct Documentation {
+    /// Singletone property
+    public static let shared: Documentation = Documentation()
 }
