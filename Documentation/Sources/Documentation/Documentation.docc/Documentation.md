@@ -9,20 +9,10 @@ some text
 
 ## Topics
 
-### Essetnial
+### Start from here
 
 - <doc:StartFile>
 - <doc:EstimationTips>
+
+### Calculator Plus
 - <doc:CalculatorPlusTranslation>
-
-<!--### Creating Sloths-->
-<!---->
-<!--arstarstarst-->
-
-<!--### Care and Feeding-->
-<!---->
-<!--- ``Documentation``-->
-
-### My classes in this library
-
-- ``MyClass``
